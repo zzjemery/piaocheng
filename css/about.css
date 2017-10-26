@@ -1,0 +1,35 @@
+.banner {
+  padding: 50px 0 0 0;
+  background-image: url(../img/bg.jpg);
+  margin: 50px 0;
+  color: #ccc;
+}
+.banner p {
+  margin-bottom: 50px;
+}
+.content {
+  margin-bottom: 60px;
+}
+.content .about-text {
+  background-color: #fff;
+}
+.content a {
+  color: #0059B2;
+}
+.content h3 {
+  border-bottom: 1px solid #EEEEEE;
+  padding-bottom: 15px;
+}
+.content p {
+  font-size: 16px;
+  line-height: 33px;
+}
+.footer {
+  background-color: #666666;
+}
+.footer p {
+  color: #fff;
+}
+.footer p:nth-child(1) {
+  padding-top: 1%;
+}

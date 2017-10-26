@@ -1,0 +1,55 @@
+.banner {
+  padding: 50px 0 0 0;
+  background-image: url(../img/bg.jpg);
+  margin: 50px 0;
+  color: #ccc;
+}
+.banner p {
+  margin-bottom: 50px;
+}
+.content {
+  padding: 20px 0;
+  background-color: #eee;
+}
+.content .text {
+  padding-left: -15px;
+  padding-right: -15px;
+}
+.content .content-left .concent-info {
+  background-color: #fff;
+  box-shadow: 2px 2px 3px #ccc;
+  margin: 0 0 20px 0;
+}
+.content .content-left .concent-info img {
+  margin: 12px 0;
+}
+.content .content-left .concent-info h4 {
+  margin: 12px 0;
+}
+.content .content-left .concent-info p {
+  line-height: 1.6;
+  color: #666;
+}
+.content .content-right {
+  background-color: #fff;
+  box-shadow: 2px 2px 3px #ccc;
+}
+.content .content-right h2 {
+  font-size: 20px;
+  padding: 5px;
+  border-left: 1px solid #ccc;
+  padding-left: 10px;
+}
+.content .content-right h4 {
+  padding-top: 10px;
+  font-size: 16px;
+}
+.footer {
+  background-color: #666666;
+}
+.footer p {
+  color: #fff;
+}
+.footer p:nth-child(1) {
+  padding-top: 1%;
+}

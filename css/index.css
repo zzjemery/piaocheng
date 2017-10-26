@@ -1,0 +1,59 @@
+.text-first .first-h2 {
+  color: #0059B2;
+  letter-spacing: 1px;
+}
+.text-first .first-p {
+  color: #999;
+  letter-spacing: 1px;
+  margin: 20px 0 40px 0;
+  font-size: 20px;
+}
+#myCarousel {
+  margin: 50px 0 30px 0;
+}
+#myCarousel img {
+  margin: 0 auto;
+}
+.tfb {
+  padding-top: 25px;
+}
+.text-second {
+  background-color: #EEEEEE;
+}
+.text-second h3 {
+  padding-top: 15%;
+  color: #666666;
+}
+.text-second p {
+  font-size: 20px;
+  color: #6E6E6E;
+}
+.text-second img {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 40%;
+  height: 40%;
+}
+.text-thrid h3 {
+  padding-top: 15%;
+  color: #666666;
+}
+.text-thrid p {
+  font-size: 20px;
+  color: #6E6E6E;
+}
+.text-thrid img {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  width: 40%;
+  height: 40%;
+}
+.footer {
+  background-color: #666666;
+}
+.footer p {
+  color: #fff;
+}
+.footer p:nth-child(1) {
+  padding-top: 1%;
+}

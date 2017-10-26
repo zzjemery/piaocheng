@@ -1,0 +1,21 @@
+.banner {
+  padding: 50px 0 0 0;
+  background-image: url(../img/bg.jpg);
+  margin: 50px 0;
+  color: #ccc;
+}
+.banner p {
+  margin-bottom: 50px;
+}
+.content {
+  text-align: center;
+}
+.footer {
+  background-color: #666666;
+}
+.footer p {
+  color: #fff;
+}
+.footer p:nth-child(1) {
+  padding-top: 1%;
+}
